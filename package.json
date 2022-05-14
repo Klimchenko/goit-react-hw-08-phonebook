@@ -2,7 +2,7 @@
   "name": "goit-react-hw-08-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Klimchenko.github.io/goit-react-hw-08-phonebook",
+
   "dependencies": {
     "@emotion/css": "^11.9.0",
     "@emotion/react": "^11.9.0",
@@ -29,7 +29,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "netlify deploy -p"
   },
   "eslintConfig": {
     "extends": [
